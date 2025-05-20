@@ -198,6 +198,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/ce67379d-0946-44c1-b2b6-450b05fd7159)
 
 # RESULT:
-      Thus the process of Feature Encoding and Transformation has been successfully performed on the data and the output has been attached.
+
+Thus the process of Feature Encoding and Transformation has been successfully performed on the data and the output has been attached.
 
        
